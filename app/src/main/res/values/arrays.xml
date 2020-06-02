@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="list_attraction_names">
-        <item>The Ruined Garden of the Coronation Basilica</item>
-        <item>Orb and Town Hall Square</item>
-        <item>Bory Castle</item>
-        <item>St. Stephen Basilica</item>
-        <item>Open Air Museum (Skanzen)</item>
-        <item>Flower-clock</item>
+        <item>India Gates Garden</item>
+        <item>Red Fort</item>
+        <item>Lotus temple</item>
+        <item>Jama Masjid</item>
+        <item>open air museum</item>
+        <item>Connaught Place</item>
     </string-array>
 
     <string-array name="list_attraction_addresses">
-        <item>8000 Székesfehérvár, Koronázó tér 1.</item>
-        <item>8000 Székesfehérvár, Városház tér 5.</item>
-        <item>8000 Székesfehérvár, Máriavölgyi út</item>
-        <item>8000 Székesfehérvár, Arany J. u. 9.</item>
-        <item>8000 Székesfehérvár, Rác u.</item>
-        <item>8000 Székesfehérvár, Országzászló tér</item>
+        <item>India Gate</item>
+        <item>Red Fort</item>
+        <item>Lotus temple road</item>
+        <item>Chandni chowk</item>
+        <item>open air museum</item>
+        <item>connaught place</item>
     </string-array>
 
     <string-array name="list_attraction_opening_hours">
         <item>Opening hours: 9:00-17:00</item>
         <item>Opening hours: Open 24 hours</item>
-        <item>Opening hours: from April to November</item>
+        <item>Opening hours: 9:00-17:00</item>
         <item>Opening hours: 7:00-19:00</item>
         <item>Opening hours: 10:00-17:00</item>
         <item>Opening hours: Open 24 hours</item>
@@ -37,21 +37,21 @@
     </array>
 
     <string-array name="list_event_names">
-        <item>With Iron and Fire Festival</item>
+        <item>made up Festival</item>
         <item>FEZEN</item>
         <item>Royal Days</item>
-        <item>Börgönd Flying Day</item>
-        <item>National Army Festival</item>
-        <item>Fehérvár Advent</item>
+        <item>All Eating Day</item>
+        <item>National Army Parade</item>
+        <item>Sunburn festival</item>
     </string-array>
 
     <string-array name="list_event_addresses">
-        <item>8000 Székesfehérvár, Rác u.27.</item>
-        <item>8000 Székesfehérvár, Takarodó u. 1.</item>
-        <item>8000 Székesfehérvár, Koronázó tér</item>
-        <item>8000 Börgönd Airport</item>
-        <item>Pákozd Katonai Emlékpark</item>
-        <item>8000 Székesfehérvár, Koronázó tér</item>
+        <item>Made up gardens</item>
+        <item>No idea</item>
+        <item>lotus temple</item>
+        <item>Paranthe waali gali</item>
+        <item>Vijay chowk</item>
+        <item>NO idea</item>
     </string-array>
 
     <string-array name="list_event_opening_hours">
@@ -73,28 +73,28 @@
     </array>
 
     <string-array name="list_accomodation_names">
-        <item>Hungarian King Hotel ****</item>
-        <item>Lakeside Hotel ****</item>
-        <item>Szárcsa Hotel ***</item>
-        <item>József Attila Kollégium</item>
-        <item>Kistuba Boarding house</item>
-        <item>Hotel Vadászkürt **</item>
+        <item>Shangrila hotel</item>
+        <item>Radisson Blu</item>
+        <item>The Taj palace</item>
+        <item>The taj mahal hotel</item>
+        <item>ITC Maurya</item>
+        <item>The Claridges hotel</item>
     </string-array>
 
     <string-array name="list_accomodation_addresses">
-        <item>8000 Székesfehérvár, Fő utca 10.</item>
-        <item>8000 Székesfehérvár, Ligetsor 50/A.</item>
-        <item>8000 Székesfehérvár, Szárcsa u. 1.</item>
-        <item>8000 Székesfehérvár, Széchenyi utca</item>
-        <item>8000 Székesfehérvár, Bregyó köz 6.</item>
-        <item>8000 Székesfehérvár, Móricz u. 1.</item>
+        <item>Connaught place</item>
+        <item>Connaught place</item>
+        <item>Diplomatic Enclave</item>
+        <item>Mansingh road</item>
+        <item>Diplomatic Enclave</item>
+        <item>Aurangzeb Road</item>
     </string-array>
 
     <string-array name="list_accomodation_opening_hours">
         <item>Opening hours: Open 24 hours</item>
         <item>Opening hours: Open 24 hours</item>
         <item>Opening hours: Open 24 hours</item>
-        <item>Opening hours: from Friday to Sunday</item>
+        <item>Opening hours: Open 24 hours</item>
         <item>Opening hours: Open 24 hours</item>
         <item>Opening hours: Open 24 hours</item>
     </string-array>
@@ -118,12 +118,12 @@
     </string-array>
 
     <string-array name="list_restaurant_addresses">
-        <item>8000 Székesfehérvár, Kadocsa út 32/a</item>
-        <item>8000 Székesfehérvár, Szárcsa u. 1.</item>
-        <item>8000 Székesfehérvár, Budai út 26.</item>
-        <item>8000 Székesfehérvár, Iszkaszentgyörgyi út 2.</item>
-        <item>8000 Székesfehérvár, Várkapu u. 3.</item>
-        <item>8000 Székesfehérvár, Palotai út 6.</item>
+        <item>8000</item>
+        <item>8000</item>
+        <item>8000</item>
+        <item>8000</item>
+        <item>8000</item>
+        <item>8000</item>
     </string-array>
 
     <string-array name="list_restaurant_opening_hours">
